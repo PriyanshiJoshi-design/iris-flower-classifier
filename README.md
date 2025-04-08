@@ -21,8 +21,8 @@ A beginner-friendly Machine Learning project using Python and Scikit-learn to cl
 - Pairplots
 - Correlation heatmaps
 - Classification report
-- 
+  
  💻 How to Run
-Open the Jupyter Notebook.
+- Open the Jupyter Notebook.
 
 
